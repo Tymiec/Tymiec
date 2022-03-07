@@ -25,7 +25,7 @@
 
 <p align="center">
 
-<a href="https://discord.com/users/441244042525671424">
+<a href="https://discord.com/users/Tymiec1337#3587">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" height="70" width="80">
 </a>
 
