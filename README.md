@@ -16,7 +16,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Tymiec&&show_icons=true&title_color=f1e05a&icon_color=f1e05a&text_color=ffffff&bg_color=000000&border_radius=0.75rem">
 
-<h2 align="center">Things I tried</h2>
+<h2 align="center">Tools I used</h2>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
