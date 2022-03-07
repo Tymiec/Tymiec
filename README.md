@@ -4,16 +4,16 @@
 <h4 align="center">Currently testing new profile view</h4>
 
 <p align="center">
-  <img align="center" src="https://komarev.com/ghpvc/?username=pxtrez&color=dcc300">
+  <img align="center" src="https://komarev.com/ghpvc/?username=Tymiec&color=dcc300">
 </p>
 
 <h2 align="center">Stats</h2>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pxtrez&&show_icons=true&title_color=f1e05a&icon_color=03A87C&text_color=ffffff&bg_color=000000&border_radius=0.75rem&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tymiec&&show_icons=true&title_color=f1e05a&icon_color=03A87C&text_color=ffffff&bg_color=000000&border_radius=0.75rem&layout=compact">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=pxtrez&&show_icons=true&title_color=f1e05a&icon_color=03A87C&text_color=ffffff&bg_color=000000&custom_title=WakaTime%20stats%20for%20last%20week&border_radius=0.75rem">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Tymiec&&show_icons=true&title_color=f1e05a&icon_color=03A87C&text_color=ffffff&bg_color=000000&custom_title=WakaTime%20stats%20for%20last%20week&border_radius=0.75rem">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pxtrez&&show_icons=true&title_color=f1e05a&icon_color=f1e05a&text_color=ffffff&bg_color=000000&border_radius=0.75rem">
+<img src="https://github-readme-stats.vercel.app/api?username=Tymiec&&show_icons=true&title_color=f1e05a&icon_color=f1e05a&text_color=ffffff&bg_color=000000&border_radius=0.75rem">
 
 <h2 align="center">Known tools</h2>
 
@@ -30,7 +30,7 @@
 </a>
 
 <p align="center">
-pxtrez#0559
+Tymiec#3587
 </p>
 
 </p>
