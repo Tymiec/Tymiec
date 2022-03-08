@@ -4,8 +4,7 @@
 <h4 align="center">Currently testing new profile view</h4>
 
 <p align="center">
-  <img align="center" src="https://komarev.com/ghpvc/?username=Tymiec&color=2596be
-">
+  <img align="center" src="https://komarev.com/ghpvc/?username=Tymiec&color=2596be">
 </p>
 
 <h2 align="center">Stats</h2>
