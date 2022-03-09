@@ -15,6 +15,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tymiec&count_private=true&text_color=ffffff&layout=compact&langs_count=10&bg_color=000000&custom_title=Używane języki&card_width=297&title_color=2596be&border_color=2596be" />
 </a>
 
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tymiec&count_private=true&text_color=ffffff&layout=compact&langs_count=10&bg_color=000000&custom_title=Używane języki&card_width=497&title_color=2596be&border_color=2596be" />
+</a
+
 <h2 align="center">Tools I used</h2>
 
 <h3 align="left">Languages and Tools:</h3>
