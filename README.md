@@ -12,7 +12,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tymiec&text_color=ffffff&show_icons=true&count_private=true&include_all_commits=true&bg_color=000000&custom_title=Moje statystyki&line_height=24&border_color=2596be&title_color=2596be&icon_color=2596be" /> <!-- change to 28 if more lang appear -->
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tymiec&text_color=ffffff&layout=compact&langs_count=10&bg_color=000000&custom_title=Używane języki&card_width=297&title_color=2596be&border_color=2596be" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tymiec&count_private=true&text_color=ffffff&layout=compact&langs_count=10&bg_color=000000&custom_title=Używane języki&card_width=297&title_color=2596be&border_color=2596be" />
 </a>
 
 <h2 align="center">Tools I used</h2>
