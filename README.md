@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tymek</h1>
 
 <h3 align="center">Computer science student from Poland</h3>
-<h4 align="center">Currently working on a VR visualization project using Point Clouds</h4>
+<h4 align="center">Currently working on an AR visualization project using Point Clouds</h4>
 
 <p align="center">
   <img align="center" src="https://komarev.com/ghpvc/?username=Tymiec&color=2596be">
