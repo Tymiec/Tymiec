@@ -1,3 +1,4 @@
+# Moje GameDevowe portfolio
 ## Projekty
 Projekty w których brałem udział
 
@@ -41,6 +42,8 @@ Gra na silniku Unity w której jesteśmy kulą która musi się przedostać prze
 Zrobiona głównie z myślą o nauce New Input Systemu oraz fizyki silnika Unity ale posłużyła także do nauki nowego UI Toolkitu do stworzenia menu.
 Aktualnie czekam na wenę do stworzenia do niej ciekawych poziomów
 
+Gra jest dostępna na moim repozytorium na razie tylko jako całe repozytorium [github.comz](https://github.com/Tymiec/GBall)
+
 ### Border Hustle
 _________________
 Tycoon stworzony w Unity, w którym gracz wciela się w rolę przemytnika, który musi przemycić jak najwięcej towaru przez granicę.
@@ -49,8 +52,15 @@ W czasie Jamu odpowiadałem za dopracowanie pomysłu na gameplay, game design, b
 
 [![Border Hustle](https://img.youtube.com/vi/mDIgnPSH58s/0.jpg)](https://www.youtube.com/watch?v=mDIgnPSH58s)
 
+Gra jest dostępna na platformie [itch.io](https://kimel.itch.io/border-hustle)
+
 ### Superpozycja
 _________________
 
 Gra logiczna z wykorzystaniem fizyki kwantowej. Aktualnie znajduje się w zamkniętych testach i nie jest dostępna publicznie. W przyszłości zostanie wydana na steamie.
 Aktualnie odpowiadam za testowanie gry, tworzenie poziomów oraz pomagam przy podejmowaniu decyzji dotyczących rozwoju gry.
+
+## Assetty
+_________________
+Wszystkie assety które stworzyłem są dostępne na moim repozytorium 
+[MyAssets](https://github.com/Tymiec/MyAssets)
