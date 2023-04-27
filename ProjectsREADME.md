@@ -43,9 +43,14 @@ Aktualnie czekam na wenę do stworzenia do niej ciekawych poziomów
 
 ### Border Hustle
 _________________
-Tycoon stworzony w Unity 
+Tycoon stworzony w Unity, w którym gracz wciela się w rolę przemytnika, który musi przemycić jak najwięcej towaru przez granicę.
+W grze gracz musi zarządzać swoim biznesem, kupować nowe pojazdy, zatrudniać pracowników, ulepszać pojazdy oraz kupować nowe w miejsce tych które zostały skonfiskowane przy nieudanym przemycie.
+W czasie Jamu odpowiadałem za dopracowanie pomysłu na gameplay, game design, balans ekonomii oraz tworzenie assetów i finalnie przygotowanie materiału promocyjnego widocznego poniżej.
 
 [![Border Hustle](https://img.youtube.com/vi/mDIgnPSH58s/0.jpg)](https://www.youtube.com/watch?v=mDIgnPSH58s)
 
 ### Superpozycja
 _________________
+
+Gra logiczna z wykorzystaniem fizyki kwantowej. Aktualnie znajduje się w zamkniętych testach i nie jest dostępna publicznie. W przyszłości zostanie wydana na steamie.
+Aktualnie odpowiadam za testowanie gry, tworzenie poziomów oraz pomagam przy podejmowaniu decyzji dotyczących rozwoju gry.
