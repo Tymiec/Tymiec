@@ -34,7 +34,7 @@ Zrobiona samodzielnie przy pomocy PyGame na zaliczenie przedmiotu Język Python.
 
 
 
-Gra jest dostępna na moim repozytorium [github.comz](https://github.com/Tymiec/Battleships/releases/tag/v0.9.1)
+Gra jest dostępna na moim repozytorium [github.com](https://github.com/Tymiec/Battleships/releases/tag/v0.9.1)
 
 ### GBall
 _________________
@@ -42,7 +42,7 @@ Gra na silniku Unity w której jesteśmy kulą która musi się przedostać prze
 Zrobiona głównie z myślą o nauce New Input Systemu oraz fizyki silnika Unity ale posłużyła także do nauki nowego UI Toolkitu do stworzenia menu.
 Aktualnie czekam na wenę do stworzenia do niej ciekawych poziomów
 
-Gra jest dostępna na moim repozytorium na razie tylko jako całe repozytorium [github.comz](https://github.com/Tymiec/GBall)
+Gra jest dostępna na moim repozytorium na razie tylko jako całe repozytorium [github.com](https://github.com/Tymiec/GBall)
 
 ### Border Hustle
 _________________
@@ -60,7 +60,7 @@ _________________
 Gra logiczna z wykorzystaniem fizyki kwantowej. Aktualnie znajduje się w zamkniętych testach i nie jest dostępna publicznie. W przyszłości zostanie wydana na steamie.
 Aktualnie odpowiadam za testowanie gry, tworzenie poziomów oraz pomagam przy podejmowaniu decyzji dotyczących rozwoju gry.
 
-## Assetty
+## Assety
 _________________
 Wszystkie assety które stworzyłem są dostępne na moim repozytorium 
 [MyAssets](https://github.com/Tymiec/MyAssets)
