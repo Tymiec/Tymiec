@@ -16,7 +16,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tymiec&show_icons=true&count_private=true&include_all_commits=true&count_private=true&custom_title=My%20stats&line_height=28&locale=en&theme=gruvbox" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tymiec&layout=compact&custom_title=Used%20languages%20&langs_count=10&theme=gruvbox&card_width=300" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tymiec&layout=compact&custom_title=Used%20languages%20&langs_count=10&theme=gruvbox&card_width=297" />
 </a>
 
 <h2 align="center">Tools I used</h2>
