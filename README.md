@@ -7,15 +7,17 @@
   <img align="center" src="https://komarev.com/ghpvc/?username=Tymiec&color=2596be">
 </p>
 
-<!-- <h2 align="center">Stats</h2> -->
+<h2 align="center">Stats</h2>
 
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tymiec&text_color=ffffff&show_icons=true&count_private=true&include_all_commits=true&bg_color=000000&custom_title=Moje statystyki&line_height=24&border_color=2596be&title_color=2596be&icon_color=2596be" /> 
-</a> -->
+<!-- &border_color=008000&title_color=008000&icon_color=008000&bg_color=00000000&text_color=afafaf -->
+<!-- &card_width=297&title_color=008000&border_color=008000&bg_color=00000000&text_color=afafaf&hide=Jupyter%20Notebook,ShaderLab&langs_count=10 -->
 
-<!-- <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tymiec&count_private=true&text_color=ffffff&layout=compact&langs_count=10&bg_color=000000&custom_title=Używane języki&card_width=297&title_color=2596be&border_color=2596be" />
-</a> -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tymiec&show_icons=true&count_private=true&include_all_commits=true&count_private=true&custom_title=My%20stats&line_height=28&locale=en&theme=gruvbox" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tymiec&layout=compact&custom_title=Used%20languages%20&langs_count=10&theme=gruvbox&card_width=300" />
+</a>
 
 <h2 align="center">Tools I used</h2>
 
