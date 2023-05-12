@@ -12,8 +12,11 @@
 <!-- &border_color=008000&title_color=008000&icon_color=008000&bg_color=00000000&text_color=afafaf -->
 <!-- &card_width=297&title_color=008000&border_color=008000&bg_color=00000000&text_color=afafaf&hide=Jupyter%20Notebook,ShaderLab&langs_count=10 -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tymiec&show_icons=true&count_private=true&include_all_commits=true&count_private=true&custom_title=My%20stats&line_height=28&locale=en&theme=gruvbox" />
+</a> -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tymiec&show_icons=true&count_private=true&count_private=true&custom_title=My%20stats&line_height=28&locale=en&theme=gruvbox" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tymiec&layout=compact&custom_title=Used%20languages%20&langs_count=9&theme=gruvbox&card_width=297&hide=Jupyter%20Notebook,ShaderLab" />
