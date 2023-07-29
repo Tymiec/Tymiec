@@ -58,7 +58,7 @@
 </a>
 
 <p align="center">
-Tymiec#3587
+tymiec
 </p>
 
 </p>
