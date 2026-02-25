@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tymek</h1>
 
 <h3 align="center">Computer science student from Poland</h3>
-<!-- <h4 align="center">Currently working on my GameDev portfolio</h4> -->
 
 <p align="center">
   <img align="center" src="https://komarev.com/ghpvc/?username=Tymiec&color=2596be">
